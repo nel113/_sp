@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+pipeline
+epoll_echo_server
+raw_syscall_signal
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
